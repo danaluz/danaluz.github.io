@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my Repositories
 
-You can use the [editor on GitHub](https://github.com/danaluz/danaluz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello there, welcome to my GitHub page. My name is Dana Luz G., and I'm currently living in Argentina. You can check out my [LinkedIn](https://www.linkedin.com/in/dana-luz-gonzalez) profile and keep in touch. Also, here is my [about.me](https://about.me/dana_gonzalez)page. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
