@@ -22,6 +22,8 @@ And an even better place to start:
 ### Machine Learning 
 
 In my [**Repository**](https://github.com/danaluz/Machine-Learning-Algorithm-Implementations-Examples) you will find code ready to run of the links mentioned above. This is still a work in progress and I keep updating the documentation, but if you have any doubts, feel free to contact me though any of my profiles. 
+
+[comment]: <> (This is a comment, it will not be included)
 <!---
 ```markdown
 Syntax highlighted code block
