@@ -3,9 +3,13 @@
 Hello there, welcome to my GitHub page. My name is Dana Luz G., and I'm currently living in Argentina. You can check out my [LinkedIn](https://www.linkedin.com/in/dana-luz-gonzalez) profile and keep in touch. Also, here is my [about.me](https://about.me/dana_gonzalez) page. 
 
 I am interested in Machine Learning algorithms, and I found several types of implementations across the web, that I tried and coded. 
+
 Here are a few links you could try if you already have some foundation:
+
 - [Simple Neural Network in Python](https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1#.w8syxd4fc) 
+
 - [Linear Regression](https://www.codeproject.com/Articles/879043/Implementing-Gradient-Descent-to-Solve-a-Linear-Re)
+
 - [K-NN and the NBA](https://www.dataquest.io/blog/k-nearest-neighbors-in-python/)
 
 And an even better place to start:
