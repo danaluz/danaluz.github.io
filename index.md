@@ -48,7 +48,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Other Projects
 
-You can find a [**C# .Net**](https://github.com/danaluz/DDS-TP) project also. This was a for an University course. 
+You can find a [**C# .Net**](https://github.com/danaluz/DDS-TP) project also. This was for an University course. 
 
 ### More interests
 
