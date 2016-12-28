@@ -1,4 +1,4 @@
-## Welcome to my Repositories
+## Welcome to my GitHub Page
 
 Hello there, welcome to my GitHub page. My name is Dana Luz G., and I'm currently living in Argentina. You can check out my [LinkedIn](https://www.linkedin.com/in/dana-luz-gonzalez) profile and keep in touch. Also, here is my [about.me](https://about.me/dana_gonzalez) page. 
 
@@ -19,10 +19,10 @@ And an even better place to start:
 
 * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning/home)
   
-### Simple
+### Machine Learning 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+In my [**Repository**](https://github.com/danaluz/Machine-Learning-Algorithm-Implementations-Examples) you will find code ready to run of the links mentioned above. This is still a work in progress and I keep updating the documentation, but if you have any doubts, feel free to contact me though any of my profiles. 
+<!---
 ```markdown
 Syntax highlighted code block
 
@@ -42,11 +42,13 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+--->
+### Other Projects
 
-### Jekyll Themes
+You can find a [**C# .Net**](https://github.com/danaluz/DDS-TP) project also. This was a for an University course. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danaluz/danaluz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### More interests
 
-### Support or Contact
+Also, I'm learning about [**Geographic Information Systems**](https://en.wikipedia.org/wiki/Geographic_information_system), and the possibilities of Open Data. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
