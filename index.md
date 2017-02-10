@@ -1,13 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/danaluz/danaluz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello there, welcome to my GitHub page. My name is Dana Luz G., and I'm currently living in Argentina. You can check out my [LinkedIn](https://www.linkedin.com/in/dana-luz-gonzalez) profile and keep in touch. Also, here is my [about.me](https://about.me/dana_gonzalez) page. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am interested in Machine Learning algorithms, and I found several types of implementations across the web, that I tried and coded. 
 
-### Markdown
+Here are a few links you could try if you already have some foundation:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Simple Neural Network in Python](https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1#.w8syxd4fc).
 
+
+* [Linear Regression](https://www.codeproject.com/Articles/879043/Implementing-Gradient-Descent-to-Solve-a-Linear-Re).
+
+
+* [K-NN and the NBA](https://www.dataquest.io/blog/k-nearest-neighbors-in-python/)
+
+
+And an even better place to start:
+
+* [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning/home)
+  
+### Machine Learning 
+
+In my [**Repository**](https://github.com/danaluz/Machine-Learning-Algorithm-Implementations-Examples) you will find code ready to run of the links mentioned above. This is still a work in progress and I keep updating the documentation, but if you have any doubts, feel free to contact me though any of my profiles. 
+
+[comment]: <> (This is a comment, it will not be included)
+<!---
 ```markdown
 Syntax highlighted code block
 
@@ -27,11 +44,14 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+--->
 
-### Jekyll Themes
+### Other Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danaluz/danaluz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You can find a [**C# .Net**](https://github.com/danaluz/DDS-TP) project also. This was for an University course. 
 
-### Support or Contact
+### More interests
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Also, I'm learning about [**Geographic Information Systems**](https://en.wikipedia.org/wiki/Geographic_information_system), and the possibilities of Open Data. 
+
+
