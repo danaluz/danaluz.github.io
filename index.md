@@ -21,7 +21,7 @@ And an even better place to start:
   
 ### Machine Learning 
 
-In my [**Repository**](https://github.com/danaluz/Machine-Learning-Algorithm-Implementations-Examples) you will find code ready to run of the links mentioned above. This is still a work in progress and I keep updating the documentation, but if you have any doubts, feel free to contact me though any of my profiles. 
+In my [**Page**](https://danaluz.github.io/AIAlgorithms/) you will find a guide through the algorithms in my [**Repository**](https://github.com/danaluz/Machine-Learning-Algorithm-Implementations-Examples), where there are code ready to run of the links mentioned above (if you have everything propering installed, if not, fear not, there are steps in each folder explaining it). This is still a work in progress and I keep updating the documentation, but if you have any doubts, feel free to contact me though any of my profiles. 
 
 [comment]: <> (This is a comment, it will not be included)
 <!---
@@ -48,7 +48,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Other Projects
 
-You can find a [**C# .Net**](https://github.com/danaluz/DDS-TP) project also. This was for an University course. 
+You can find a [**C# .Net**](https://github.com/danaluz/DDS-TP) project also. This was for an University course.
 
 ### More interests
 
