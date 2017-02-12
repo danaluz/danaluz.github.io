@@ -1,27 +1,22 @@
 ## Welcome to my GitHub Page
 
-Hello there, welcome to my GitHub page. My name is Dana Luz G., and I'm currently living in Argentina. You can check out my [LinkedIn](https://www.linkedin.com/in/dana-luz-gonzalez) profile and keep in touch. Also, here is my [about.me](https://about.me/dana_gonzalez) page. 
-
-I am interested in Machine Learning algorithms, and I found several types of implementations across the web, that I tried and coded. 
-
-Here are a few links you could try if you already have some foundation:
-
-* [Simple Neural Network in Python](https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1#.w8syxd4fc).
-
-
-* [Linear Regression](https://www.codeproject.com/Articles/879043/Implementing-Gradient-Descent-to-Solve-a-Linear-Re).
-
-
-* [K-NN and the NBA](https://www.dataquest.io/blog/k-nearest-neighbors-in-python/)
-
-
-And an even better place to start:
-
-* [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning/home)
+Hello there, welcome to my GitHub page. My name is Dana Luz G., and I'm currently living in Argentina. You can check out my [LinkedIn](https://www.linkedin.com/in/dana-luz-gonzalez) profile and keep in touch. 
   
+### About Me
+
+I am a Systems Engineer undergrad student. 
+
+I'm also a [**Certified Project Manager**](http://ltgp.com.ar/certifications/Certificate_DanaLuz_PMI_CAM.pdf) and an active volunteer in the [PMI Buenos Aires Chapter](http://www.pmi.org.ar/noticiadetalle.php?id_noticia=916). 
+
+I've been President of the IEEE Computer Society, where we create a [colaborative project](https://github.com/IEEESBUTNBA/IEEETalks) trying to use the latest Microsoft technologies. This is poster I created to show our project!
+
+![](Poster_IEEETalks.jpg)
+ 
+Also, here is my [about.me](https://about.me/dana_gonzalez) page. 
+
 ### Machine Learning 
 
-In my [**Page**](https://danaluz.github.io/AIAlgorithms/) you will find a guide through the algorithms in my [**Repository**](https://github.com/danaluz/Machine-Learning-Algorithm-Implementations-Examples), where there are code ready to run of the links mentioned above (if you have everything propering installed, if not, fear not, there are steps in each folder explaining it). This is still a work in progress and I keep updating the documentation, but if you have any doubts, feel free to contact me though any of my profiles. 
+In my [**Page**](https://danaluz.github.io/AIAlgorithms/) you will find a guide through the algorithms in my repository, where there are code ready to run (if you have everything propering installed, if not, fear not, there are steps in each folder explaining it). This is still a work in progress and I keep updating the documentation, but if you have any doubts, feel free to contact me though any of my profiles. 
 
 [comment]: <> (This is a comment, it will not be included)
 <!---
