@@ -6,13 +6,20 @@ Hello there, welcome to my GitHub page. My name is Dana Luz G., and I'm currentl
 
 I am a Systems Engineer undergrad student. 
 
+#### Project Management
+
 I'm also a [**Certified Project Manager**](http://ltgp.com.ar/certifications/Certificate_DanaLuz_PMI_CAM.pdf) and an active volunteer in the [PMI Buenos Aires Chapter](http://www.pmi.org.ar/noticiadetalle.php?id_noticia=916). 
 
+#### IEEE Participation
 I've been President of the IEEE Computer Society, where we create a [colaborative project](https://github.com/IEEESBUTNBA/IEEETalks) trying to use the latest Microsoft technologies. This is poster I created to show our project!
 
-![](Poster_IEEETalks.jpg)
+![](http://ltgp.com.ar/images_dana/Poster_IEEETalks.jpg)
  
 Also, here is my [about.me](https://about.me/dana_gonzalez) page. 
+
+#### Papers and Publications
+
+You can find me on [researchgate](https://www.researchgate.net/profile/Dana_Gonzalez), where I keep uploading updates about publications and projects.
 
 ### Machine Learning 
 
