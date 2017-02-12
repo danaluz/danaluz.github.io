@@ -1,10 +1,6 @@
 ## Welcome to my GitHub Page
 
-Hello there, welcome to my GitHub page. My name is Dana Luz G., and I'm currently living in Argentina. You can check out my [LinkedIn](https://www.linkedin.com/in/dana-luz-gonzalez) profile and keep in touch. 
-  
-### About Me
-
-I am a Systems Engineer undergrad student. 
+Hello there, welcome to my GitHub page. My name is Dana Luz G., and I'm currently living in Argentina. I am a Systems Engineer undergrad student. You can check out my [LinkedIn](https://www.linkedin.com/in/dana-luz-gonzalez) profile and keep in touch. Also, here is my [about.me](https://about.me/dana_gonzalez) page. 
 
 #### Project Management
 
@@ -13,9 +9,8 @@ I'm also a [**Certified Project Manager**](http://ltgp.com.ar/certifications/Cer
 #### IEEE Participation
 I've been President of the IEEE Computer Society, where we create a [colaborative project](https://github.com/IEEESBUTNBA/IEEETalks) trying to use the latest Microsoft technologies. This is poster I created to show our project!
 
-![](http://ltgp.com.ar/images_dana/Poster_IEEETalks.jpg)
+![](http://ltgp.com.ar/images_dana/Poster_IEEETalks_small.jpg)
  
-Also, here is my [about.me](https://about.me/dana_gonzalez) page. 
 
 #### Papers and Publications
 
