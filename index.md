@@ -15,7 +15,7 @@ You can find me on [researchgate](https://www.researchgate.net/profile/Dana_Gonz
 
 ### Machine Learning 
 
-In my [**Page**](https://danaluz.github.io/AIAlgorithms/) you will find a guide through the algorithms in my repository, where there are code ready to run (if you have everything propering installed, if not, fear not, there are steps in each folder explaining it). This is still a work in progress and I keep updating the documentation, but if you have any doubts, feel free to contact me though any of my profiles. 
+In my [**Page**](https://danaluz.github.io/AIAlgorithms/) you will find a guide through the algorithms in my repository, where there are code ready to run (if you have everything installed, if not, fear not, there are steps in each folder explaining it). This is still a work in progress and I keep updating the documentation, but if you have any doubts, feel free to contact me though any of my profiles. 
 
 [comment]: <> (This is a comment, it will not be included)
 <!---
