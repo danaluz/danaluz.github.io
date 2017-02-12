@@ -4,17 +4,14 @@ Hello there, welcome to my GitHub page. My name is Dana Luz G., and I'm currentl
 
 #### Project Management
 
-I'm also a [**Certified Project Manager**](http://ltgp.com.ar/certifications/Certificate_DanaLuz_PMI_CAM.pdf) and an active volunteer in the [PMI Buenos Aires Chapter](http://www.pmi.org.ar/noticiadetalle.php?id_noticia=916). 
+I'm also a [**Certified Project Manager**](http://ltgp.com.ar/certifications/Certificate_DanaLuz_PMI_CAM.pdf) and an active volunteer in the [**PMI Buenos Aires Chapter**](http://www.pmi.org.ar/noticiadetalle.php?id_noticia=916). 
 
 #### IEEE Participation
-I've been President of the IEEE Computer Society, where we create a [colaborative project](https://github.com/IEEESBUTNBA/IEEETalks) trying to use the latest Microsoft technologies. This is poster I created to show our project!
-
-![](http://ltgp.com.ar/images_dana/Poster_IEEETalks_small.jpg)
- 
+I've been President of the IEEE Computer Society, where we create a [collaborative project](https://github.com/IEEESBUTNBA/IEEETalks) trying to use the latest Microsoft technologies. Drop by and collaborate!
 
 #### Papers and Publications
 
-You can find me on [researchgate](https://www.researchgate.net/profile/Dana_Gonzalez), where I keep uploading updates about publications and projects.
+You can find me on [researchgate](https://www.researchgate.net/profile/Dana_Gonzalez), where I keep uploading updates about publications and other projects.
 
 ### Machine Learning 
 
@@ -42,10 +39,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 --->
-
-### Other Projects
-
-You can find a [**C# .Net**](https://github.com/danaluz/DDS-TP) project also. This was for an University course.
 
 ### More interests
 
